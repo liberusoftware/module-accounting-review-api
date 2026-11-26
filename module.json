@@ -3,7 +3,7 @@
   "name": "accounting-review-api",
   "display_name": "Accounting Review API",
   "description": "HTTP adapter for accounting review queues.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\Accounting\\ReviewApi\\ReviewApiServiceProvider",
   "requires": {
